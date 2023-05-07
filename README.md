@@ -13,9 +13,33 @@ I'm a frontend software engineer with experience in developing responsive and us
 ## Portfolio
 Here are some of my notable projects: 
 
-- [My Portfolio](https://samkayzee-portfolio.vercel.app/): This showcase my skilss and some of my Projects.
+- [My Portfolio](https://samkayzee-portfolio.vercel.app/): This showcase my skills and some of my Projects.
 - [E Commerce Website](https://e-commerce-website-six.vercel.app/): This is built with React and Redux where you can add items to cart and also view items in the cart as well.
 - [Dictionary](https://samkayzee-dictionary.vercel.app/): A Web Application where you can search for words and listen to their phonics as well.
+
+## Work Experience
+**-Payiors Dev**(Frontend Developer Intern, Jan 2021- July 2022)
+   - Assisting the senior developers in building and maintaining responsive websites using React JS.
+   - Collaborating with the design team to ensure the website's design and functionality met the client's requirements.
+
+**-RectPath Organisation**(Frontend Developer Intern, 2022 - 2023)
+   - Conducting cross-browser and cross-device compatibility testing to ensure a consistent user experience.
+   -  Assisting the senior developers in building and maintaining responsive websites using React TS and Redux.
+
+<!-- ## Education
+**-Software Architecture**(2021-2022) 
+   - SQI College of ICT
+**-Bachelor of Science in Computer Science**(2022- 2025)
+   - Koladaisi University -->
+
+## Contact
+You can reach out to me at [lasisiabdulsamad7@gmail.com](mailto:lasisiabdulsamd7@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/lasisi-abdulsamad).
+
+Thank you for stopping by! 😊
+
+
+
+
 <!-- 
 **Samkayzeee/Samkayzeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
