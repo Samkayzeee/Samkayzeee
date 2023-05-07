@@ -4,7 +4,7 @@ I'm a frontend software engineer with experience in developing responsive and us
 
 ## Skills
 
--Languages: 
+- Languages: 
 JavaScript, TypeScript, HTML, CSS
 
 <!--
