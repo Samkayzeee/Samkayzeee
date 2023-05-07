@@ -1,4 +1,11 @@
-# Hi there 👋
+# Hi there, I'm Lasisi Abdulsamad 👋
+
+I'm a frontend software engineer with experience in developing responsive and user-friendly web applications using modern web technologies such as HTML, CSS, JavaScript, React, and Next JS.
+
+## Skills
+
+-Languages: 
+JavaScript, TypeScript, HTML, CSS
 
 <!--
 **Samkayzeee/Samkayzeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
