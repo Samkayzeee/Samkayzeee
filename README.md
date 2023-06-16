@@ -4,7 +4,7 @@ I'm a frontend software engineer with experience in developing responsive and us
 
 ## Skills
 
-**- Languages**: JavaScript, TypeScript, HTML, CSS
+**- Languages**: JavaScript, TypeScript, Python, HTML, CSS
 
 **-Frameworks/Libraries**: React, Bootstrap, Material UI, Sass, Redux
 
