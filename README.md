@@ -6,7 +6,7 @@ I'm a frontend software engineer with experience in developing responsive and us
 
 **- Languages**: JavaScript, TypeScript, Python, HTML, CSS
 
-**-Frameworks/Libraries**: React, Bootstrap, Material UI, Sass, Redux
+**-Frameworks/Libraries**: React, Bootstrap, Material UI, Sass, Redux, TailwindCSS
 
 **-Tools**: Git, NPM, Webpack
 
