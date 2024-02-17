@@ -1,12 +1,12 @@
 # Hi there, I'm Lasisi Abdulsamad 👋
 
-I'm a frontend software engineer with experience in developing responsive and user-friendly web applications using modern web technologies such as HTML, CSS, JavaScript, React, and Next JS.
+I'm a frontend software engineer with experience in developing responsive and user-friendly web applications using modern web technologies such as HTML, CSS, JavaScript, React, Java, and Next JS.
 
 ## Skills
 
-**- Languages**: JavaScript, TypeScript, Python, HTML, CSS
+**- Languages**: JavaScript, TypeScript, Java, HTML, CSS
 
-**-Frameworks/Libraries**: React, Bootstrap, Material UI, Sass, Redux, TailwindCSS
+**-Frameworks/Libraries**: React, Next JS, Bootstrap, Material UI, Sass, Redux, TailwindCSS
 
 **-Tools**: Git, NPM, Webpack
 
