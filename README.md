@@ -15,7 +15,6 @@ Here are some of my notable projects:
 
 - [My Portfolio](https://samkayzee-portfolio.vercel.app/): This showcase my skills and some of my Projects.
 - [E Commerce Website](https://e-commerce-website-six.vercel.app/): This is built with React and Redux where you can add items to cart and also view items in the cart as well.
-- [Dictionary](https://samkayzee-dictionary.vercel.app/): A Web Application where you can search for words and listen to their phonics as well.
 - [Trailer WebApp](https://samkayzee-trailer-webapp.vercel.app/): A Web Application to search and watch Trailer Movies.
 
 ## Work Experience
