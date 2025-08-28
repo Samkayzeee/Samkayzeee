@@ -1,56 +1,88 @@
-# Hi there, I'm Lasisi Abdulsamad 👋
+<!-- Header Banner -->
+<h1 align="center">👋 Hi, I'm Lasisi Abdulsamad</h1>
+<h3 align="center">🚀 Full-Stack Developer | Crafting Elegant Frontends & Rock-Solid Backends</h3>
 
-I'm a frontend software engineer with experience in developing responsive and user-friendly web applications using modern web technologies such as HTML, CSS, JavaScript, React, Java, and Next JS.
+<p align="center">
+  <a href="https://linkedin.com/in/lasisi-abdulsamad">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://samkayzee-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:lasisiabdulsamad7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-## Skills
+---
 
-**- Languages**: JavaScript, TypeScript, Java, HTML, CSS
+### 👨‍💻 About Me  
+I am a **Full-Stack Software Developer** passionate about building secure, scalable, and user-friendly applications.  
+- 🌍 Based in Nigeria  
+- 🌱 Currently exploring **Web3 & advanced AI systems**  
+- 💡 I thrive on turning ideas into impactful digital products  
 
-**-Frameworks/Libraries**: React, Next JS, Bootstrap, Material UI, Sass, Redux, TailwindCSS, Framer Motion
+---
 
-**-Tools**: Git, NPM, Webpack
+### 🛠️ Tech Stack  
 
-## Portfolio
-Here are some of my notable projects: 
+#### **Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-- [My Portfolio](https://samkayzee-portfolio.vercel.app/): This showcase my skills and some of my Projects.
-- [E Commerce Website](https://e-commerce-website-six.vercel.app/): This is built with React and Redux where you can add items to cart and also view items in the cart as well.
-- [Trailer WebApp](https://samkayzee-trailer-webapp.vercel.app/): A Web Application to search and watch Trailer Movies.
+#### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Work Experience
-**-Payiors Dev**(Frontend Developer Intern, Jan 2021- July 2022)
-   - Assisting the senior developers in building and maintaining responsive websites using React JS.
-   - Collaborating with the design team to ensure the website's design and functionality met the client's requirements.
+#### **Other Tools**
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<!-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) -->
 
-**-RectPath Organisation**(Frontend Developer Intern, 2022 - 2023)
-   - Conducting cross-browser and cross-device compatibility testing to ensure a consistent user experience.
-   -  Assisting the senior developers in building and maintaining responsive websites using React TS and Redux.
+---
 
-<!-- ## Education
-**-Software Architecture**(2021-2022) 
-   - SQI College of ICT
-**-Bachelor of Science in Computer Science**(2022- 2025)
-   - Koladaisi University -->
-
-## Contact
-You can reach out to me at [lasisiabdulsamad7@gmail.com](mailto:lasisiabdulsamd7@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/lasisi-abdulsamad).
-
-Thank you for stopping by! 😊
-
-
+### 📌 Featured Projects  
+🔹 **[Portfolio Website](https://samkayzee-portfolio.vercel.app/)** – Personal portfolio built with **Next.js & TailwindCSS**, showcasing my skills and projects.  
+🔹 **[Crave Connect](#)** *(In Progress)* – A school-focused **food delivery platform** built with **React.js & Node.js**, migrating soon to **Next.js + TypeScript**.  
+🔹 **[E-Commerce Website](https://e-commerce-website-six.vercel.app/)** – A modern shopping platform using the **MERN stack** with authentication and  cart system.  
+🔹 **[Trailer Website](https://samkayzee-trailer-webapp.vercel.app/)** – An interactive platform for browsing and streaming movie trailers, designed with **React.js** and responsive UI.  
 
 
-<!-- 
-**Samkayzeee/Samkayzeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samkayzeee&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samkayzeee&theme=tokyonight" alt="GitHub streak" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samkayzeee&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
+### 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samkayzeee&theme=tokyo-night" alt="GitHub activity graph" />
+</p>
+
+---
+
+### 🌐 Let's Connect  
+<p align="center">
+  <a href="https://linkedin.com/in/lasisi-abdulsamad"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="https://samkayzee-portfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="40" /></a>
+  <a href="mailto:lasisiabdulsamad7@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+</p>
+
+---
+
+<p align="center">✨ Building the future, one commit at a time ✨</p>
