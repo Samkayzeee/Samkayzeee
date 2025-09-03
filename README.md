@@ -48,6 +48,7 @@ I am a **Full-Stack Software Developer** passionate about building secure, scala
 🔹 **[Crave Connect](#)** *(In Progress)* – A school-focused **food delivery platform** built with **React.js & Node.js**, migrating soon to **Next.js + TypeScript**.  
 🔹 **[E-Commerce Website](https://e-commerce-website-six.vercel.app/)** – A modern shopping platform using the **MERN stack** with authentication and  cart system.  
 🔹 **[Trailer Website](https://samkayzee-trailer-webapp.vercel.app/)** – An interactive platform for browsing and streaming movie trailers, designed with **React.js** and responsive UI.  
+🔹 **[Fish Species Recognition System](https://fishrecognitionsystem.netlify.app/)** - A Fish Recognition system that recognizes fish species based on it's trained model.  
 
 
 ---
