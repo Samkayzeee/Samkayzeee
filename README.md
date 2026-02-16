@@ -1,14 +1,14 @@
 <!-- Header Banner -->
 <h1 align="center">👋 Hi, I'm Lasisi Abdulsamad</h1>
-<h3 align="center">🚀 Full-Stack Developer | Crafting Elegant Frontends & Rock-Solid Backends</h3>
+<h3 align="center">🚀 Software Developer </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/lasisi-abdulsamad">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://samkayzee-portfolio.vercel.app/">
+  <!-- <a href="https://samkayzee-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  </a> -->
   <a href="mailto:lasisiabdulsamad7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -16,13 +16,15 @@
 
 ---
 
-### 👨‍💻 About Me  
-I am a **Full-Stack Software Developer** passionate about building secure, scalable, and user-friendly applications.  
-- 🌍 Based in Nigeria  
-- 🌱 Currently exploring **Web3 & advanced AI systems**  
-- 💡 I thrive on turning ideas into impactful digital products  
+<!-- ### 👨‍💻 About Me   -->
+<!-- I am a **Full-Stack Software Developer** passionate about building secure, scalable, and user-friendly applications.   -->
+<!-- - 🌍 Based in Nigeria   -->
+<!-- - 🌱 Currently exploring **Web3 & advanced AI systems**   -->
+<!-- - 💡 I thrive on turning ideas into impactful digital products   -->
 
 ---
+
+<h4 align="center">Details Incoming </h4>
 
 ### 🛠️ Tech Stack  
 
@@ -43,47 +45,47 @@ I am a **Full-Stack Software Developer** passionate about building secure, scala
 
 ---
 
-### 📌 Featured Projects  
-🔹 **[Portfolio Website](https://samkayzee-portfolio.vercel.app/)** – Personal portfolio built with **Next.js & TailwindCSS**, showcasing my skills and projects.  
-🔹 **[Crave Connect](#)** *(In Progress)* – A school-focused **food delivery platform** built with **React.js & Node.js**, migrating soon to **Next.js + TypeScript**.  
-🔹 **[E-Commerce Website](https://e-commerce-website-six.vercel.app/)** – A modern shopping platform using the **MERN stack** with authentication and  cart system.  
-🔹 **[Trailer Website](https://samkayzee-trailer-webapp.vercel.app/)** – An interactive platform for browsing and streaming movie trailers, designed with **React.js** and responsive UI.  
-🔹 **[Fish Species Recognition System](https://fishrecognitionsystem.netlify.app/)** - A Fish Recognition system that recognizes fish species based on it's trained model.  
+<!-- ### 📌 Featured Projects   -->
+<!-- 🔹 **[Portfolio Website](https://samkayzee-portfolio.vercel.app/)** – Personal portfolio built with **Next.js & TailwindCSS**, showcasing my skills and projects.   -->
+<!-- 🔹 **[Crave Connect]("https//crave-connect.vercel.app")** – A school-focused **food delivery platform** built with **React.js & Node.js**, migrating soon to **Next.js + TypeScript**.   -->
+<!-- 🔹 **[E-Commerce Website](https://e-commerce-website-six.vercel.app/)** – A modern shopping platform using the **MERN stack** with authentication and  cart system.   -->
+<!-- 🔹 **[Trailer Website](https://samkayzee-trailer-webapp.vercel.app/)** – An interactive platform for browsing and streaming movie trailers, designed with **React.js** and responsive UI.   -->
+<!-- 🔹 **[Fish Species Recognition System](https://fishrecognitionsystem.netlify.app/)** - A Fish Recognition system that recognizes fish species based on it's trained model.   -->
 
 
 ---
 
-### 📊 GitHub Stats  
+<!-- ### 📊 GitHub Stats   -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Samkayzeee&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samkayzeee&theme=tokyonight" alt="GitHub streak" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samkayzeee&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+</p> -->
 
 ---
 
-### 📈 Contribution Graph  
+<!-- ### 📈 Contribution Graph   -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samkayzeee&theme=tokyo-night" alt="GitHub activity graph" />
-</p>
+</p> -->
 
 ---
 
 ### 🌐 Let's Connect  
 <p align="center">
   <a href="https://linkedin.com/in/lasisi-abdulsamad"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="https://samkayzee-portfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="40" /></a>
+  <!-- <a href="https://samkayzee-portfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="40" /></a> -->
   <a href="mailto:lasisiabdulsamad7@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
 </p>
 
 ---
 
-<p align="center">✨ Building the future, one commit at a time ✨</p>
+<!-- <p align="center">✨ Building the future, one commit at a time ✨</p> -->
